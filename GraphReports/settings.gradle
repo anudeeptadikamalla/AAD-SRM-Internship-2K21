@@ -1,0 +1,2 @@
+rootProject.name = "GraphReports"
+include ':app'
