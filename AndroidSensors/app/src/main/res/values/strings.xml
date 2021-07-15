@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSensors</string>
+    <string name="touch_sensor">Touch Sensor</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="shake_sensor">Shake Sensor</string>
+    <string name="no_sensor_detected">No Sensor Detected</string>
+</resources>
