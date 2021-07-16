@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="registration">Registration Form</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="telugu">Telugu</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="click_here_to_add_dob">Click here to add DOB</string>
+    <string name="enter_mail">Enter Mail</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="save">save</string>
+    <string-array name="branch">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>MECH</item>
+        <item>CIVIL</item>
+        <item>IT</item>
+    </string-array>
+    <string-array name="year">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+</resources>
