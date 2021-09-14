@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/alert_dialog"
+        android:id="@+id/alert"/>
+    <item android:title="@string/date_picker"
+        android:id="@+id/datepicker"/>
+    <item android:title="@string/time_picker"
+        android:id="@+id/timepicker"/>
+    <item android:title="@string/search"
+        android:id="@+id/search"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search"/>
+</menu>

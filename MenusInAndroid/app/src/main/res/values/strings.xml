@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MenusInAndroid</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="time_picker">Time Picker</string>
+    <string name="search">Search</string>
+</resources>
