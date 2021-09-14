@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmployeeDirectory</string>
+    <string name="enter_employee_name">Enter Employee name</string>
+    <string name="employee_name">Employee name</string>
+    <string name="employee_id">Employee Id</string>
+    <string name="employee_address">Employee Address</string>
+    <string name="employee_salary">Employee Salary</string>
+    <string name="update">Update</string>
+</resources>
