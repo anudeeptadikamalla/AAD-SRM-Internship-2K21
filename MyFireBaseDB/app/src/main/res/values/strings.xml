@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFireBaseDB</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="firebase_data_store">Firebase Data Store</string>
+    <string name="save">save</string>
+    <string name="retrive">retrive</string>
+</resources>
