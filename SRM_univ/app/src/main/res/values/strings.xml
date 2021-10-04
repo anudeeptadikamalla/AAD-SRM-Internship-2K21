@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SRM_univ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SRM AP</string>
+    <string name="nav_header_subtitle">srmap.edu.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="abts_text">SRM University-AP, Andhra Pradesh is a multi-stream research university with a focus on diverse fields. From Engineering to Sciences and Liberal Arts to Management, SRM University-AP\'s vision is to emerge as a world-class university that is globally connected, nationally relevant, and regionally transformative. It has an ambitious plan to be in the top world-class universities in ten years.SRM University-AP has partnered with the world\'s best names for educational method and philosophy, campus design and infrastructure, learning and living spaces, and recruitment of faculty and leadership. Perkins and Will, renowned American Architecture Firm, that has designed some of the leading universities in the world, is the architect for this new-age institution. The campus is sprawled over 100 acres of lush greenery and facilitated with top-notch equipment and infrastructure. With students in India seeking more inter-disciplinary programs and flexibility in learning, SRM University, AP -Andhra Pradesh has revamped how the programs are offered, and the curriculum is designed. There is also an increasing focus on experiential learning (learning through doing) and technology-enabled active learning. SRM University-AP has introduced \'Inter-Disciplinary Experiential Active Learning\' (IDEAL). SRM University-AP, Andhra Pradesh is located at Neerukonda, Mangalagiri Mandal, Guntur District of Andhra Pradesh, between the major cities Vijayawada and Guntur, and the nearest town is Mangalagiri. It is well connected via railways, bus and airport.</string>
+    <string name="internships">Internships</string>
+    <string name="events">Events</string>
+    <string name="news">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
